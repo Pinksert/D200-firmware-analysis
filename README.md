@@ -12,13 +12,9 @@
 
 ## 姊妹项目
 
-本系列对尼康同一时期几台机型的官方固件做「明文」拆解（即不破解、只解析已公开的官方固件）：
+> 姊妹项目：[D90 明文固件解析](https://github.com/Pinksert/D90-firmware-analysis) · [D300 明文固件解析](https://github.com/Pinksert/D300-firmware-analysis) · [D300S 加密固件解析](https://github.com/Pinksert/D300S-firmware-analysis)
 
-- **D90 固件解析（明文）**：https://github.com/Pinksert/D90-firmware-analysis
-- D300 / D300S 的同类仓库见同一账号下的 `D300-firmware-analysis`、`D300S-firmware-analysis`。
-
-D200 的特殊之处：它是 D300 **前一台**上市的机型，但两者之间**隔着整整一代**平台——
-这篇就是把这件事用固件证据钉死。
+D200 的特殊之处：它是 D300 **前一台**上市的机型，但两者之间**隔着整整一代**平台——这篇就是把这件事用固件证据钉死。
 
 ---
 
